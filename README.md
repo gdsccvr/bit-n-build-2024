@@ -4,7 +4,7 @@ Google Developer Student Club of CVR(GDSC-CVR) and GDSC-CRCE have collaborated t
 
 GDSC CVR has been entrusted with the responsibility of conducting a state-level hackathon in Telangana. This regional event will serve as a platform for local talent to demonstrate their skills, creativity, and problem-solving abilities in the field of technology. Participants will have the opportunity to engage in intense coding sessions, collaborate with like-minded individuals, and address real-world challenges through their projects.
 
-**The top three teams emerging victorious in the Telangana hackathon will earn the prestigious chance to advance to the final round, which is set to take place in Mumbai.**
+**The top two teams emerging victorious in the Telangana hackathon will earn the prestigious chance to advance to the final round, which is set to take place in Mumbai.**
 
 As the event unfolds, GDSC CVR extends a warm welcome to all colleges in Telangana, inviting them to participate in this intellectually stimulating hackathon. The competition provides a unique opportunity for students to broaden their horizons, enhance their technical skills, and network with industry professionals. It celebrates innovation, collaboration, and the limitless possibilities that arise when passionate individuals come together to tackle challenges head-on.
 
