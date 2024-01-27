@@ -10,14 +10,13 @@ As the event unfolds, GDSC CVR extends a warm welcome to all colleges in Telanga
 
 
 ## Eligibility
-The competition is open to all undergraduate
-students.
+The competition is open to all undergraduate students.
 
 ## Problem Statements
-[Problem Statements](https://shorturl.at/akBL6)
+[Problem Statements](https://gdsccvr.vercel.app/bitnbuild/problem-statements)
 
 ## Guidelines
-- Entry to the competition is free for the preliminary round
+- Entry to the competition is free for the preliminary round.
 - Choose a problem statement and start building the prototype.
 - Submit a PowerPoint Presentation about your project.
 - Shortlisted teams from the Preliminary Round are required to pay a fee of ₹400/- per team.
@@ -41,8 +40,8 @@ The Final round will be conducted in Mumbai by GDSC CRCE at Fr. Conceicao
 Rodrigues College Of Engineering campus in offline mode. The top 2 teams from Round 1 will be traveling to Mumbai. It is a 24 hour hackathon and GDSC CRCE is to pay for the traveling expenses, food expenses, etc of all the participants that go to Mumbai for the final round.
 
 ## Prizes & Rewards
-- Prize pool of ₹15000/- for Round 1
-- Participation certificates for all Round 1 participants
+- Prize pool of ₹15000/- for Round 1.
+- Participation certificates for all Round 1 participants.
 
 ## FAQ
 
@@ -114,14 +113,14 @@ Ans: The registration fee is non-refundable, so please ensure your team is fully
 
 Ans: For any issues or queries related to the registration and payment process, please reach out to the provided contact details on the CRCE registration platform.
 
-**Q) When is the deadline for completing the registration and payment process?**
+**Q) When is the deadline for completing the payment process?**
 
-Ans: The deadline for registration and payment is 6th Feb. Ensure that your team completes the process within this timeframe to secure your spot in the Round-1 Hackathon.
+Ans: Once your team is shortlisted, the deadline for registration and payment is 6th Feb. Ensure that your team completes the process within this timeframe to secure your spot in the Round-1 Hackathon.
 
-**Q) Are the top 2 selected teams responsible for their own travel arrangements to Mumbai for the final round?**
+**Q) Are the selected teams responsible for their own travel arrangements to Mumbai for the final round?**
 
 Ans: No, the traveling expenses to Mumbai for the final round will be covered by CRCE Mumbai.
 
 **Q) Where can I get more details about the Round 2 of the hackathon?**
 
-Ans: For any queries related to the Round 2 of the hackathon, please visit the official [Bit N Build 2024 website](https://bitnbuild.vercel.app/)
+Ans: For any queries related to the Round 2 of the hackathon, please visit the official Bit N Build 2024 website: https://bitnbuild.vercel.app/
