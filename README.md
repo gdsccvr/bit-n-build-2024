@@ -17,7 +17,7 @@ students.
 [Problem Statements](https://shorturl.at/akBL6)
 
 ## Guidelines
-- Entry to the competition is free for the preliminary round.
+- Entry to the competition is free for the preliminary round
 - Choose a problem statement and start building the prototype.
 - Submit a PowerPoint Presentation about your project.
 - Shortlisted teams from the Preliminary Round are required to pay a fee of ₹400/- per team.
