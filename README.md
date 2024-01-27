@@ -118,7 +118,7 @@ Ans: For any issues or queries related to the registration and payment process, 
 
 Ans: The deadline for registration and payment is 6th Feb. Ensure that your team completes the process within this timeframe to secure your spot in the Round-1 Hackathon.
 
-**Q) Are the top 3 selected teams responsible for their own travel arrangements to Mumbai for the final round?**
+**Q) Are the top 2 selected teams responsible for their own travel arrangements to Mumbai for the final round?**
 
 Ans: No, the traveling expenses to Mumbai for the final round will be covered by CRCE Mumbai.
 
